@@ -12,7 +12,7 @@
       "Animations": [
         {
           "Animation": "NPC/Livestock/Horse/Animations/Default/Idle.blockyanim",
-          "SoundEventId": "SFX_Horse_Idle",
+          "SoundEventId": "SFX_Cyborg_Horse_Idle",
           "Speed": 1
         }
       ]
@@ -37,7 +37,8 @@
       "Animations": [
         {
           "Animation": "NPC/Livestock/Horse/Animations/Default/Run.blockyanim",
-          "Speed": 1
+          "Speed": 1,
+          "SoundEventId": "SFX_Cyborg_Horse_Run"
         }
       ]
     },
@@ -108,7 +109,7 @@
         {
           "Animation": "NPC/Livestock/Horse/Animations/Default/Alerted.blockyanim",
           "Looping": false,
-          "SoundEventId": "SFX_Horse_Alerted"
+          "SoundEventId": "SFX_Cyborg_Horse_Alerted"
         }
       ]
     },
@@ -125,13 +126,7 @@
           "Animation": "NPC/Livestock/Horse/Animations/Damage/Hurt.blockyanim",
           "BlendingDuration": 0.1,
           "Looping": false,
-          "SoundEventId": "SFX_Horse_Hurt"
-        },
-        {
-          "Animation": "NPC/Livestock/Horse/Animations/Damage/Hurt2.blockyanim",
-          "BlendingDuration": 0.1,
-          "Looping": false,
-          "SoundEventId": "SFX_Horse_Hurt"
+          "SoundEventId": "SFX_Cyborg_Horse_Hurt"
         }
       ]
     },
@@ -140,7 +135,7 @@
         {
           "Animation": "NPC/Livestock/Horse/Animations/Damage/Death.blockyanim",
           "Looping": false,
-          "SoundEventId": "SFX_Horse_Death"
+          "SoundEventId": "SFX_Cyborg_Horse_Death"
         }
       ]
     },

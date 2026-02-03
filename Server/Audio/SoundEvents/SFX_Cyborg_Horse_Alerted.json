@@ -2,7 +2,7 @@
   "Layers": [
     {
       "Files": [
-        "Sounds/wake.ogg"
+        "Sounds/alert.ogg"
       ],
       "RandomSettings": {
         "MinPitch": -6.1748780739571,

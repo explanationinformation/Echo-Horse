@@ -2,7 +2,7 @@
   "Group": "Exinfo",
   "Name": "EchoHorse",
   "Version": "1.0.0",
-  "Description": "Adds a new Cyborg horse-variant with modified attributes!",
+  "Description": "",
   "Authors": [
     {
       "Name": "Explanation Information",
@@ -10,7 +10,7 @@
       "Url": ""
     }
   ],
-  "Website": "https://www.youtube.com/@explanationinformation",
+  "Website": "",
   "Dependencies": {},
   "OptionalDependencies": {},
   "LoadBefore": {},

@@ -7,8 +7,8 @@
       "Horse_Cyborg"
     ],
     "DropList": "Drop_Horse_Cyborg",
-    "MaxHealth": 110,
-    "MaxSpeed": 7,
+    "MaxHealth": 150,
+    "MaxSpeed": 5,
     "ViewRange": 15,
     "AttackWhenStartled": true,
     "Attack": "Root_NPC_Attack_Melee",

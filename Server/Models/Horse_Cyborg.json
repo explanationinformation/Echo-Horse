@@ -350,5 +350,54 @@
   "Light": {
     "Color": "#777",
     "Radius": 1
-  }
+  },
+  "Particles": [
+    {
+      "SystemId": "IceBall",
+      "TargetEntityPart": "Entity",
+      "TargetNodeName": "back_left",
+      "PositionOffset": {
+        "X": 0.3,
+        "Y": -0.2,
+        "Z": -0.7
+      },
+      "Color": "#1c1c1c",
+      "Scale": 0.5
+    },
+    {
+      "SystemId": "IceBall",
+      "TargetNodeName": "back_right",
+      "PositionOffset": {
+        "Y": -0.2,
+        "X": -0.3,
+        "Z": -0.7
+      },
+      "Color": "#1c1c1c",
+      "Scale": 0.5
+    },
+    {
+      "SystemId": "IceBall",
+      "TargetEntityPart": "Entity",
+      "Color": "#1c1c1c",
+      "PositionOffset": {
+        "Y": -0.2,
+        "X": 0.3,
+        "Z": 0.7
+      },
+      "TargetNodeName": "front_left",
+      "Scale": 0.5
+    },
+    {
+      "SystemId": "IceBall",
+      "TargetEntityPart": "Entity",
+      "Color": "#1c1c1c",
+      "TargetNodeName": "front_right",
+      "PositionOffset": {
+        "Y": -0.2,
+        "Z": 0.7,
+        "X": -0.3
+      },
+      "Scale": 0.5
+    }
+  ]
 }

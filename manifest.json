@@ -1,0 +1,20 @@
+{
+  "Group": "Exinfo",
+  "Name": "EchoHorse",
+  "Version": "1.0.0",
+  "Description": "",
+  "Authors": [
+    {
+      "Name": "Explanation Information",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

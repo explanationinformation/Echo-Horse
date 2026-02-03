@@ -1,0 +1,20 @@
+{
+  "Layers": [
+    {
+      "Files": [
+        "Sounds/sleep.ogg"
+      ],
+      "RandomSettings": {
+        "MinPitch": -3.8631371386483475,
+        "MinVolume": -0.9151498112135024,
+        "MaxVolume": 0.8278537031645015,
+        "MaxPitch": 0
+      },
+      "Looping": true
+    }
+  ],
+  "MaxInstance": 2,
+  "Volume": -15.0,
+  "AudioCategory": "AudioCat_NPC_Horse",
+  "Parent": "SFX_Attn_VeryQuiet"
+}
